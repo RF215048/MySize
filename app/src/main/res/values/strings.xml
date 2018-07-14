@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySize</string>
+    <string name="hozon">保存</string>
+    <string name="text">身長</string>
+</resources>
